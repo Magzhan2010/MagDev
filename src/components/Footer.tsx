@@ -22,9 +22,9 @@ export default function Footer() {
           </span>
         </p>
         <div className="flex items-center gap-4">
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/Magzhan2010" target="_blank" rel="noopener noreferrer"
             className="font-mono text-xs text-muted hover:text-acid transition-colors">GitHub</a>
-          <a href="https://t.me/mag1sh" target="_blank" rel="noopener noreferrer"
+          <a href="https://t.me/mag1shx" target="_blank" rel="noopener noreferrer"
             className="font-mono text-xs text-muted hover:text-acid transition-colors">Telegram</a>
           <a href="#contact" className="font-mono text-xs text-acid hover:underline">{t.footer.connect}</a>
         </div>

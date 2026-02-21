@@ -50,7 +50,7 @@ const PROJECTS: Project[] = [
     type: 'Frontend',
     color: '#34d399',
     emoji: '🌍',
-    status: 'Завершён',
+    status: 'в процессе',
     features: ['📚 Уроки и упражнения', '⭐ Система очков', '📊 Отслеживание прогресса', '🏆 Достижения'],
     link: '#',
   },
